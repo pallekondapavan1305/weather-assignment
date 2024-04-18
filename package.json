@@ -22,7 +22,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
 },
-  "homepage": "https://pallekondapavan1305.github.io",
+  "homepage": "https://pallekondapavan1305.github.io/weather-assignment",
   "eslintConfig": {
     "extends": [
       "react-app",
